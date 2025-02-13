@@ -1,6 +1,6 @@
 ## Eae, meu nome é Gabriel 👋
 
-<p>Sejam bem-vindos ao meu repositório</p>
+<p>Sejam bem-vindos ao meu repositório!</p>
 
 ## Tecnologias que utilizo
 
